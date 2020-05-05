@@ -5,7 +5,7 @@ Tensorflow tutorials
 
 | Tutorial                                                      | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Basic classification: Images of clothing](https://www.khanacademy.org/math/algebra)|x|
+| [Basic classification: Images of clothing](https://www.khanacademy.org/math/algebra)|x|[here](https://github.com/Valerieps/tensorflow-tutorials/blob/master/01-basic-image-classification.ipynb)
 | [Text classification TensorFlow Hub](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)       |        |
 | [Text classification: Movie reviews](https://www.khanacademy.org/math/trigonometry) |        |
 | [Basic regression: Predict fuel efficiency](https://www.tensorflow.org/tutorials/keras/regression)   |        |
